@@ -183,3 +183,4 @@ Additional things that I would consider inside this PR depending on the current 
 - The use of `i` instead of `x` in a for loop.
 - Moving towards more ES6 style function definitions. E.g. arrow functions.
 - Move towards ternary operators to shorten code to make the main code more readable.
+- The use of TypeScript to define types for variables, inputs and outputs. (Along with any inference).
